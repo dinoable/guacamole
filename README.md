@@ -15,4 +15,5 @@ for file in filenames:
 # A Recipe for Guacamole
 - Avocado
 - Onion
+- Tomatoes
 - Salt & Pepper
