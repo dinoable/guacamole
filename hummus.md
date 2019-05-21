@@ -3,4 +3,5 @@
 - chickpeas
 - tahini
 - olive oil
-
+- lemon
+- paprika powder
