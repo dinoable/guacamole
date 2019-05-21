@@ -12,3 +12,7 @@ Example repository for introductory **Git** training
 for file in filenames:
   print(file)
 ```
+# A Recipe for Guacamole
+- Avocado
+- Onion
+- Salt & Pepper
